@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lgrando1, I am a Technology Ph.D Candidate @Unicamp - Limeira Campus.
+- 👋 Hi, I’m @lgrando1, I am a Technology Ph.D Candidate in Unicamp - Limeira Campus.
 - 👀 I’m interested in Agent-Based Simulation, data science, and Machine Learning/Artificial Inteligence.
 - 🌱 I create code in Python, R, Netlogo, SQL languages and I am learning Web Development. 
 - 💞️ I’m looking to academics and industry workflow development.
